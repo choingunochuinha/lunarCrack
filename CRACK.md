@@ -3,3 +3,6 @@ The latest `4.0.0` release will work for everyone and you can even run a cracked
 
 <br>
 ive added a how to use in the release just open the 3.0.0 release from release tab
+enter your username:choingunochui
+enter your UUID:ec70bcaf-702f-4bb8-b48d-276fa52a780c
+
